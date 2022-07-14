@@ -1,5 +1,4 @@
-from uuid import uuid1
-
+from uuid import uuid4
 
 class Web_exercise_Generator():
 	def __init__(self):
